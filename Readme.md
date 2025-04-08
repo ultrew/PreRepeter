@@ -1,3 +1,6 @@
+![PreRepeter Screenshot](https://github.com/ultrew/PreRepeter/blob/ae3f4e26ac56c1d4a3833b1ca0565bd542f285c8/img.png?raw=true)
+
+---
 # 📄 PreRepeter – Smart PDF Question Analyzer 🧠
 
 **PreRepeter** is a full-stack web app that helps students analyze multiple previous year question paper PDFs, detect repeated or similar questions, and export them as a clean `.docx` file — ready for focused revision!
@@ -54,16 +57,6 @@ So, I built PreRepeter to solve that problem once and for all. 🔁
 - Re-design download button + toast feedback
 
 Stay tuned!
-
----
-
-## 📸 Screenshots
-
-## 📸 Screenshot
-
-![PreRepeter Screenshot](https://github.com/ultrew/PreRepeter/blob/ae3f4e26ac56c1d4a3833b1ca0565bd542f285c8/img.png?raw=true)
-
----
 
 ## 🧪 Running Locally
 
