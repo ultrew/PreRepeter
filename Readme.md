@@ -59,7 +59,7 @@ Stay tuned!
 
 ## 📸 Screenshots
 
-[*(Include screenshots here of upload, filter, and download screens — or add gif preview)*](https://github.com/ultrew/PreRepeter/blob/main/img.png)
+https://github.com/ultrew/PreRepeter/blob/main/img.png
 
 ---
 
