@@ -59,7 +59,9 @@ Stay tuned!
 
 ## 📸 Screenshots
 
-[https://github.com/ultrew/PreRepeter/blob/ae3f4e26ac56c1d4a3833b1ca0565bd542f285c8/img.png]
+## 📸 Screenshot
+
+![PreRepeter Screenshot](https://github.com/ultrew/PreRepeter/blob/ae3f4e26ac56c1d4a3833b1ca0565bd542f285c8/img.png?raw=true)
 
 ---
 
